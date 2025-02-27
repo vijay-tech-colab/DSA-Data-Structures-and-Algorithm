@@ -17,3 +17,4 @@ function missingNumber(arr) {
 // Example usage: Find the missing number in the array
 const missNum = missingNumber([1, 2, 3, 4, 6, 7, 8, 9, 10]); // The missing number is 5
 console.log(missNum);  // Output the missing number (5)
+
